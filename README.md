@@ -1,4 +1,5 @@
 # chat_app
+(this project depend on backend PHP and MySql)
 
 Whats App Chat
 
@@ -14,3 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![download](https://github.com/FaresSallam75/chat_app/assets/115936044/43b2730c-bf66-4a4b-978a-ac321c13c3c2)
